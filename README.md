@@ -12,14 +12,13 @@
 
   <p>
     I'm a backend-focused developer who loves building secure, scalable, and efficient applications.<br/>
-    From crafting clean REST APIs to solving 500+ LeetCode problems, I'm passionate about writing code that works fast and scales smart.
+    I'm passionate about writing code that works fast and scales smart.
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌍_Coimbatore,_India-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌍_Chennai,_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:a00857920@gmail.com"><img src="https://img.shields.io/badge/📧_a00857920@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Backend_/_Full_Stack)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🧩_LeetCode_500+_Solver-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(_Full_Stack)-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
