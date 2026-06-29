@@ -1,16 +1,113 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abishek Kumar S</h1>
 
-<!--
-**Abishek2128/Abishek2128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer | Java | Spring Boot | React | Node.js
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+🎓 B.Tech Student
+
+💻 Passionate Full Stack Developer
+
+🔒 Cyber Security Enthusiast
+
+🌱 Currently learning Spring Boot, React, Docker & AWS
+
+🚀 Looking for Software Engineering Opportunities
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+Java
+
+Python
+
+JavaScript
+
+C++
+
+SQL
+
+### Frontend
+
+React
+
+HTML
+
+CSS
+
+Bootstrap
+
+### Backend
+
+Spring Boot
+
+Node.js
+
+Express.js
+
+JWT Authentication
+
+### Database
+
+MySQL
+
+MongoDB
+
+### Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Postman
+
+Docker
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 SmartLivestock
+
+React Native
+
+Spring Boot
+
+Flask
+
+JWT
+
+XGBoost
+
+MySQL
+
+---
+
+### 🏠 Home Booking System
+
+MERN Stack
+
+Authentication
+
+Booking System
+
+Admin Dashboard
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn
+
+Portfolio
+
+Email
