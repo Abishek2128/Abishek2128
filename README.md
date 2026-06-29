@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white&logo=github" />
   </a>
 
-  <a href="https://linkedin.com/in/santhosh-r-in">
+  <a href="https://www.linkedin.com/in/abishekkumar-s-7161762a3/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white&logo=linkedin" />
   </a>
 
