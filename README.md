@@ -92,6 +92,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abishekkumar-s-7161762a3/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/🔗_linktr.ee/santhosh.in-39E09B?style=for-the-badge&logoColor=white&logo=linktree" />
+    <img src="https://img.shields.io/badge/🔗_linktr.ee/abishek.in-39E09B?style=for-the-badge&logoColor=white&logo=linktree" />
   </a>
 </p>
