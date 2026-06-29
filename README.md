@@ -2,10 +2,10 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Santhosh R</strong>
+  Hi, I'm <strong>Abishekkumar S</strong>
 </h1>
 
-<h3>Java Backend Developer | Spring Boot • MERN • REST APIs</h3>
+<h3>Full Stack Developer | Spring Boot • MERN • REST APIs</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_Coimbatore,_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:santhoshr3306@gmail.com"><img src="https://img.shields.io/badge/📧_santhoshr3306@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:a00857920@gmail.com"><img src="https://img.shields.io/badge/📧_a00857920@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Backend_/_Full_Stack)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🧩_LeetCode_500+_Solver-1e1e2e?style=for-the-badge" />
   </p>
