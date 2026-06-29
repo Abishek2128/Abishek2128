@@ -25,7 +25,7 @@
 <h3>🌐 Socials</h3>
 
 <p align="left">
-  <a href="https://github.com/Santhosh1015">
+  <a href="https://github.com/Abishek2128">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white&logo=github" />
   </a>
 
@@ -33,15 +33,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white&logo=linkedin" />
   </a>
 
-  <a href="https://x.com/santhosh_san">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white&logo=twitter" />
-  </a>
-
-  <a href="https://instagram.com/san_santhosh">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white&logo=instagram" />
-  </a>
-
-  <a href="https://leetcode.com/u/santhosh_san">
+  <a href="https://leetcode.com/u/Abishek2128/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logoColor=white&logo=leetcode" />
   </a>
 </p>
@@ -99,7 +91,7 @@
 ## 🌿 Find Me Online
 
 <p align="center">
-  <a href="https://linktr.ee/santhosh.in">
+  <a href="https://www.linkedin.com/in/abishekkumar-s-7161762a3/?skipRedirect=true">
     <img src="https://img.shields.io/badge/🔗_linktr.ee/santhosh.in-39E09B?style=for-the-badge&logoColor=white&logo=linktree" />
   </a>
 </p>
